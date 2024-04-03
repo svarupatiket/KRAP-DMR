@@ -1,0 +1,1 @@
+Connect to the Access Point named ZiFi with password Eviltwin from your device
