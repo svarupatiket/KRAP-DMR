@@ -41,4 +41,5 @@ KRAP_DMR_BACKUP			    0000	103.187.147.208		passw0rd	62030
 KOPERASI							  0000	103.175.218.10		g@skeun		62030
 KRAP_PAPUA_BARAT_&_BD	  0000	36.75.219.110			passw0rd	62030
 LOKAL_PAPUA_BARAT_&_BD  0000	36.75.219.110			passw0rd	62030
+RAPI_NUSANTARA_K2PI     2000  dmrid.org         passw0rd  62030
 ######################################################################################################
